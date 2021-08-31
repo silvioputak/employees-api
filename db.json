@@ -1,0 +1,28 @@
+{
+    "zaposlenici": [
+        {
+            "id": 0,
+            "Ime": "Silvio",
+            "Prezime": "Putak",
+            "Slika": "https://st.depositphotos.com/2101611/3925/v/950/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg",
+            "Spol": "Muško",
+            "Godina_rodenja": "08/12/1996",
+            "Početak_rada": "01/12/1996",
+            "Vrsta_ugovora": "neodređeno",
+            "Trajanje_ugovora": "neodređeno",
+            "Odjel": "B8 Ured"
+        },
+        {
+            "id": 1,
+            "Ime": "Mateo",
+            "Prezime": "Putak",
+            "Slika": "https://st.depositphotos.com/2101611/3925/v/950/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg",
+            "Spol": "Muško",
+            "Godina_rodenja": "03/11/1994",
+            "Početak_rada": "01/12/2020",
+            "Vrsta_ugovora": "određeno",
+            "Trajanje_ugovora": "određeno",
+            "Odjel": "B8 Ured"
+        }
+    ]
+}
